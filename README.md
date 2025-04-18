@@ -1,8 +1,10 @@
 # 健身動作偵測計數器
 
----
+![image](https://github.com/Weber0531/MediaPipe/blob/main/images/demo.gif)
 
 這是一個使用 Python、OpenCV 與 MediaPipe 製作的健身動作偵測程式，能即時透過攝影機辨識角度，自動計數並提供中文鼓勵提示。
+
+---
 
 ## 🎯 功能介紹
 
