@@ -19,7 +19,7 @@ dir = 0
 count = 0
 start_time = time.time()
 before_gametime = 4
-countdown_time = 61
+countdown_time = 31
 
 while True:
     success, img = cap.read()
